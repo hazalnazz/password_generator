@@ -3,7 +3,7 @@ import string
 
 def password_generator():
     print("Strong Password Generator")
-
+    print()
     try: 
         lenght = int(input("Enter password length: "))
 
